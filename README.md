@@ -4,7 +4,7 @@
 
 In this project, As a data scientist working for a hedge fund, you will extract the profit data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the profit for the hedge fund.
 
-# 💻 Applications:
+# 💻 Tools and Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -44,7 +44,7 @@ The  objectives of this project is:
 - Matplotlib
 - Seaborn
 - Plotly
-- 
+
 ## Dashboard Outputs
 ### Tesla Stock Graph
 ![newplot](https://github.com/my3amarnath/Extracting-and-Visualizing-Stock-Data-for-Gamestop-stock-vs-Tesla-/assets/39696237/0a1e42f1-bb28-452d-8554-b52795baa128)
